@@ -1,0 +1,19 @@
+{
+  "colors": [{
+    "gradiant_start": "#753F4F",
+    "gradiant_end": "#221E33",
+    "slider_background": "#FB986C",
+    "knob": "#CA6C42",
+    "popup_knob": "#FB986C",
+    "inactive_number": "#59000000",
+    "active_number": "#FFFFFF"
+  }],
+  "values": [{
+    "slider_height": 50,
+    "slider_corner_radius": 25
+  }],
+  "font": [{
+    "inactive_number": "Open Sans Regular 21",
+    "active_number": "Open Sans Bold 21"
+  }]
+}
